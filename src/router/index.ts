@@ -24,7 +24,7 @@ const routes = [
     component: Certifications,
   },
   {
-    path: '/qustion',
+    path: '/questions',
     name: 'questions',
     component: Questions,
   },

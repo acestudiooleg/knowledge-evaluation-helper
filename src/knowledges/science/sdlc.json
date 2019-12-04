@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "q": "Software development process",
+    "links":[
+      "http://en.wikipedia.org/wiki/Software_development_process"
+    ]
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "q": "Software development activities",
+    "links":[
+      "http://en.wikipedia.org/wiki/Software_development_process"
+    ]
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "q": "Waterfall Concept",
+    "links":[
+      "http://en.wikipedia.org/wiki/Software_development_process"
+    ]
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "q": "Agile software development concept",
+    "links":[
+      "https://en.wikipedia.org/wiki/Agile_software_development"
+    ]
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "q": "Scrum",
+    "links":[
+      "http://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf"
+    ]
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "q": "Roles and responsibilities",
+    "links":[
+      ""
+    ]
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "q": "Artifacts (Scrum board, Cards, Epics, Stories, Tasks, Backlogs, Sprint, Increment, etc.)",
+    "links":[
+      ""
+    ]
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "q": "Estimation (Story Points, Velocity, Sprint Burndown Chart, Feature Burnup Chart)",
+    "links":[
+      ""
+    ]
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "q": "Ceremonies (Release planning, Sprint planning, Daily Scrum, Sprint demo, Sprint retrospective)",
+    "links":[
+      ""
+    ]
+  },
+  {
+    "id": 0,
+    "level": 1,
+    "q": "Kanban",
+    "links":[
+      ""
+    ]
+  }
+]

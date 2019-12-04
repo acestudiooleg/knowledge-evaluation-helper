@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Process Planning (SDLC)"
+  },
+  {
+    "id": 2,
+    "name": "Estimation"
+  },
+  {
+    "id": 3,
+    "name": "Software Requirements Engineering"
+  },
+  {
+    "id": 4,
+    "name": "OOD"
+  },
+  {
+    "id": 5,
+    "name": "DB Design"
+  },
+  {
+    "id": 6,
+    "name": "Modeling"
+  },
+  {
+    "id": 7,
+    "name": "Algorithms"
+  },
+  {
+    "id": 8,
+    "name": "Construction"
+  },
+  {
+    "id": 9,
+    "name": "Core"
+  },
+  {
+    "id": 10,
+    "name": "SQL"
+  },
+  {
+    "id": 11,
+    "name": "Refactoring (WebUI)"
+  },
+  {
+    "id": 12,
+    "name": "Networking"
+  },
+  {
+    "id": 13,
+    "name": "CSS/CSS3"
+  },
+  {
+    "id": 14,
+    "name": "HTML/HTML5"
+  },
+  {
+    "id": 15,
+    "name": "JavaScript – Core "
+  },
+  {
+    "id": 16,
+    "name": "avaScript – Frontend  "
+  },
+  {
+    "id": 17,
+    "name": "WebUI - Frameworks(Angular/React/Vue)"
+  },
+  {
+    "id": 18,
+    "name": "JavaScript – Backend"
+  },
+  {
+    "id": 19,
+    "name": "JavaScript – Mobile"
+  },
+  {
+    "id": 20,
+    "name": "JavaScript – Tools"
+  },
+  {
+    "id": 21,
+    "name": "Cloud fundamentals"
+  },
+  {
+    "id": 22,
+    "name": "Code Quality"
+  },
+  {
+    "id": 23,
+    "name": "Automated Testing"
+  },
+  {
+    "id": 34,
+    "name": "Security"
+  },
+  {
+    "id": 25,
+    "name": "Managing versions"
+  }
+]
